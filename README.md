@@ -14,7 +14,6 @@
 ## 👨‍💻 About Me
 
 - 🔧 I love building practical and useful web apps
-- 🧠 I enjoy learning new tech stacks and backend frameworks
 - 💼 I’ve worked on several backend and frontend freelance projects
 - 🛠️ I like solving real-world problems with code
 - 📍 Based in West Java, Indonesia 🇮🇩
@@ -37,7 +36,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/prisma/prisma/next/docs/static/img/logo.svg" title="Prisma" alt="Prisma" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" width="40" height="40"/>
 </p>
