@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sakib Faturrahman</h1>
 
 <h3 align="center">
-  <a href="https://github.com/sakibfaturrahman">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Junior+Fullstack+Developer;Junior+Backend+Developer;Passionate+Tech+Learner+from+Indonesia🇮🇩" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Junior+Fullstack+Developer;Junior+Backend+Developer;Passionate+Tech+Learner+from+Indonesia🇮🇩" alt="Typing animation" />
 </h3>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sakibfaturrahman&label=Profile%20views&color=0e75b6&style=flat" alt="sakibfaturrahman" />
@@ -16,7 +15,7 @@
 
 - 🔧 I love building practical and useful web apps
 - 🧠 I enjoy learning new tech stacks and backend frameworks
-- 💼 I’ve worked on several Laravel and frontend freelance projects
+- 💼 I’ve worked on several backend and frontend freelance projects
 - 🛠️ I like solving real-world problems with code
 - 📍 Based in West Java, Indonesia 🇮🇩
 
