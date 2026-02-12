@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sakib Faturrahman</h1>
+
 <p align="center">
-  <strong>Fullstack Developer | Mobile Developer | Freelancer</strong>
+  <strong>Fullstack Developer | Mobile Developer | Freelancer</strong><br>
+  📍 Based in West Java, Indonesia 🇮🇩
 </p>
 
 <p align="center">
@@ -12,45 +14,43 @@
 
 ### 👨‍💻 About Me
 
-- 🔧 **Expertise:** Fokus dalam membangun aplikasi web dan mobile yang skalabel, praktis, dan user-centric.
-- 💼 **Experience:** Memiliki pengalaman luas dalam mengerjakan proyek freelance frontend dan backend melalui **FTR Tech**.
-- 🛠️ **Approach:** Senang memecahkan masalah dunia nyata dengan kode yang bersih dan efisien.
-- 📍 **Location:** Jawa Barat, Indonesia 🇮🇩
+- 🔧 **Expertise:** Specializing in building scalable, practical, and user-centric web & mobile applications.
+- 💼 **Professional Experience:** Active in delivering high-quality solutions for various freelance projects through **FTR Tech**.
+- 🛠️ **Problem Solver:** Passionate about solving real-world problems with clean and efficient code.
 
 ---
 
 ### 🚀 Tech Stack & Skills
 
-#### 🌐 Frontend & Web Development
-- **Languages & Frameworks:** JavaScript (ES6+), **TypeScript**, React.js, **Next.js**, PHP, **Laravel**.
-- **Styling:** **Tailwind CSS**, **Bootstrap**, CSS3, HTML5.
-- **Deployment:** **Vercel**, Netlify.
+#### 🌐 Frontend & Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
+</p>
 
-#### 📱 Mobile Development
-- **Framework:** **Flutter**.
-- **Language:** **Dart**.
+#### ⚙️ Backend, Database & ORM
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,prisma,supabase,postgres,mysql,mongodb,firebase" />
+</p>
 
-#### ⚙️ Backend & Database
-- **Runtime & Framework:** Node.js, Express.js.
-- **Database:** **PostgreSQL**, MySQL, MongoDB.
-- **Backend as a Service (BaaS):** **Supabase**, **Firebase**.
-- **ORM:** **Prisma**.
-
-#### 🛠️ Tools & Others
-- **Version Control:** Git & GitHub.
-- **Productivity:** VS Code, Postman.
+#### 📱 Mobile & Deployment Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dart,flutter,git,github,vscode,postman,vercel" />
+</p>
 
 ---
 
 ### 📊 GitHub Activity & Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakibfaturrahman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibfaturrahman&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sakibfaturrahman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakibfaturrahman&theme=tokyonight&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibfaturrahman&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakibfaturrahman&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
