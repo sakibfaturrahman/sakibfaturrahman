@@ -8,39 +8,49 @@
   <a href="https://ftrtech.web.id">🚀 ftrtech.web.id</a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sakibfaturrahman&layout=compact&theme=tokyonight&hide_border=true" alt="Wakatime Stats" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me
 
-- 🔧 **Expertise:** Specializing in building scalable, practical, and user-centric web & mobile applications.
-- 💼 **Freelance:** Active in delivering high-quality solutions via **FTR Tech**.
-- 📍 **Location:** West Java, Indonesia 🇮🇩
+- 🔧 **Expertise:** Fokus dalam membangun aplikasi web dan mobile yang skalabel, praktis, dan user-centric.
+- 💼 **Experience:** Memiliki pengalaman luas dalam mengerjakan proyek freelance frontend dan backend melalui **FTR Tech**.
+- 🛠️ **Approach:** Senang memecahkan masalah dunia nyata dengan kode yang bersih dan efisien.
+- 📍 **Location:** Jawa Barat, Indonesia 🇮🇩
 
 ---
 
 ### 🚀 Tech Stack & Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" /><br>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,supabase,postgres,mysql,mongodb" /><br>
-  <img src="https://skillicons.dev/icons?i=dart,flutter,git,github,vscode,postman" />
-</p>
+#### 🌐 Frontend & Web Development
+- **Languages & Frameworks:** JavaScript (ES6+), **TypeScript**, React.js, **Next.js**, PHP, **Laravel**.
+- **Styling:** **Tailwind CSS**, **Bootstrap**, CSS3, HTML5.
+- **Deployment:** **Vercel**, Netlify.
+
+#### 📱 Mobile Development
+- **Framework:** **Flutter**.
+- **Language:** **Dart**.
+
+#### ⚙️ Backend & Database
+- **Runtime & Framework:** Node.js, Express.js.
+- **Database:** **PostgreSQL**, MySQL, MongoDB.
+- **Backend as a Service (BaaS):** **Supabase**, **Firebase**.
+- **ORM:** **Prisma**.
+
+#### 🛠️ Tools & Others
+- **Version Control:** Git & GitHub.
+- **Productivity:** VS Code, Postman.
 
 ---
 
 ### 📊 GitHub Activity & Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakibfaturrahman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibfaturrahman&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sakibfaturrahman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibfaturrahman&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakibfaturrahman&theme=tokyonight&hide_border=true" width="90%" />
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakibfaturrahman&theme=tokyonight&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
