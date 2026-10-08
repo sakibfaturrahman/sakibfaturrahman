@@ -2,7 +2,13 @@
 
 <img src="https://raw.githubusercontent.com/sakibfaturrahman/assets/main/ezgif-7010cdf985398574.gif" width="700" style="border-radius:15px; border:2px solid #ffffff; box-shadow: 0 0 20px rgba(255, 255, 255, 0.4);" />
 
-### 🤍 Sakib Faturrahman — Manga Field Era
+### 🗯️ Character File
+
+<p width="600">
+A passionate <b>Fullstack Developer & Mobile Developer</b> based in West Java, Indonesia 🇮🇩.<br>
+Daily life revolves around crafting clean code, designing scalable web & mobile apps,<br>
+building freelance projects at <b>FTR Tech</b>, and exploring the latest AI technologies.
+</p>
 
 ### 🔗 QUICK LINKS
 
@@ -14,7 +20,7 @@
 <br>
 <a href="https://www.instagram.com/sakibfaturrahman"><img src="https://img.shields.io/badge/INSTAGRAM-sakibfaturrahman-ffffff?style=for-the-badge&logo=instagram&logoColor=black&labelColor=e0e0e0" /></a>
 <br>
-<a href="mailto:contact@sakibdev.my.id"><img src="https://img.shields.io/badge/EMAIL-contact@sakibdev.my.id-ffffff?style=for-the-badge&logo=gmail&logoColor=black&labelColor=e0e0e0" /></a>
+<a href="mailto:sakibfaturrahman92@gmail.com"><img src="https://img.shields.io/badge/EMAIL-contact@sakibdev.my.id-ffffff?style=for-the-badge&logo=gmail&logoColor=black&labelColor=e0e0e0" /></a>
 
 </div>
 
@@ -35,7 +41,7 @@
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,php,laravel,nodejs,express,prisma,supabase,postgres&theme=light" />
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,dart,flutter,git,github,vscode,postman,vercel&theme=light" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,dart,flutter,cloudflare,gcp,git,github,vscode,postman,vercel&theme=light" />
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-ffffff?style=for-the-badge&logo=html5&logoColor=black" />
@@ -43,6 +49,7 @@
 <img src="https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-ffffff?style=for-the-badge&logo=typescript&logoColor=black" />
 <img src="https://img.shields.io/badge/React-ffffff?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/React_Native-ffffff?style=for-the-badge&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Next.js-ffffff?style=for-the-badge&logo=nextdotjs&logoColor=black" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-ffffff?style=for-the-badge&logo=tailwindcss&logoColor=black" />
 <img src="https://img.shields.io/badge/Bootstrap-ffffff?style=for-the-badge&logo=bootstrap&logoColor=black" />
@@ -64,17 +71,19 @@
 <p>
 <img src="https://img.shields.io/badge/Dart-ffffff?style=for-the-badge&logo=dart&logoColor=black" />
 <img src="https://img.shields.io/badge/Flutter-ffffff?style=for-the-badge&logo=flutter&logoColor=black" />
+<img src="https://img.shields.io/badge/Cloudflare-ffffff?style=for-the-badge&logo=cloudflare&logoColor=black" />
+<img src="https://img.shields.io/badge/Google_Cloud-ffffff?style=for-the-badge&logo=googlecloud&logoColor=black" />
+<img src="https://img.shields.io/badge/ChatGPT-ffffff?style=for-the-badge&logo=openai&logoColor=black" />
+<img src="https://img.shields.io/badge/Claude-ffffff?style=for-the-badge&logo=anthropic&logoColor=black" />
+<img src="https://img.shields.io/badge/Google_Gemini-ffffff?style=for-the-badge&logo=googlegemini&logoColor=black" />
+</p>
+
+<p>
 <img src="https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git&logoColor=black" />
 <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black" />
 <img src="https://img.shields.io/badge/VS_Code-ffffff?style=for-the-badge&logo=visualstudiocode&logoColor=black" />
 <img src="https://img.shields.io/badge/Postman-ffffff?style=for-the-badge&logo=postman&logoColor=black" />
 <img src="https://img.shields.io/badge/Vercel-ffffff?style=for-the-badge&logo=vercel&logoColor=black" />
-</p>
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=sakibfaturrahman&show_icons=true&theme=default&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=333333&border_color=000000&count_private=true" />
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sakibfaturrahman&theme=light&background=ffffff&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&hide_border=false&border=000000" />
 </p>
 
 <p>
