@@ -7,7 +7,7 @@
 <p width="600">
 A passionate <b>Fullstack Developer & Mobile Developer</b> based in West Java, Indonesia 🇮🇩.<br>
 Daily life revolves around crafting clean code, designing scalable web & mobile apps,<br>
-building freelance projects at <b>FTR Tech</b>, and exploring the latest AI technologies.
+building freelance projects at <b>KersaDev</b>, and exploring the latest AI technologies.
 </p>
 
 ### 🔗 QUICK LINKS
@@ -25,8 +25,6 @@ building freelance projects at <b>FTR Tech</b>, and exploring the latest AI tech
 </div>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=250&section=header&text=SAKIB&fontSize=120&fontColor=000000&animation=twinkling&fontAlignY=38&desc=Sakib%20Faturrahman%20%7C%20FULLSTACK%20%26%20MOBILE%20DEVELOPER&descAlignY=60&stroke=ffb6c1&strokeWidth=2" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=500&color=FFB6C1&center=true&vCenter=true&width=900&lines=%24+init+sakib_dev%3B+ACCESS+GRANTED%3B+BUILDING+SCALABLE+APPS...%3B+SYSTEM+READY" />
 
