@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/b5aae731-c96a-4d6a-bbf3-6723c10737be?raw=true" width="700" style="border-radius:20px; border:2px solid #aff637; box-shadow: 0 0 25px #aff637;" />
+<video src="https://raw.githubusercontent.com/sakibfaturrahman/assets/main/kuroha.mp4" width="700" autoplay loop muted playsinline style="border-radius:20px; border:2px solid #aff637; box-shadow: 0 0 25px #aff637;"></video>
 
 ### 💚 Sakib Faturrahman - Lime Field Era
 
