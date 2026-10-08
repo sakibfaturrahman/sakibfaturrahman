@@ -40,6 +40,7 @@ building freelance projects at <b>KersaDev</b>, and exploring the latest AI tech
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,php,laravel,nodejs,express,prisma,supabase,postgres&theme=light" />
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,dart,flutter,cloudflare,gcp,git,github,vscode,postman,vercel&theme=light" />
+<img src="https://skillicons.dev/icons?i=discord,cloudflare,mysql,mongodb,postgres,redis,supabase,firebase,vercel,netlify" />
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-ffffff?style=for-the-badge&logo=html5&logoColor=black" />
